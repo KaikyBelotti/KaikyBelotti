@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h2 align="left">✨Sobre mim</h2>
+<h3 align="left">✨Sobre mim</h3>
 
 ###
 
@@ -13,7 +13,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
+  <a href="https://www.instagram.com/kaikybelotti?igsh=cGVmZ3Aybjl5Zjlh&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="" alt="discord logo"  />
@@ -45,4 +47,4 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=200&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
-###
+###****
